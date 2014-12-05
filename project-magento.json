@@ -1,7 +1,7 @@
 {
   "source": [
-    "git://github.com/sgromskiy/grunt-base-template.git",
-    "git://github.com/sgromskiy/grunt-add-magento-19.git"
+    "git://github.com/iMarkup/grunt-base-template.git",
+    "git://github.com/iMarkup/grunt-add-magento-19.git"
 ],
   "path": "markup",
   "ignore": [
