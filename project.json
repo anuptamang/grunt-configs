@@ -1,6 +1,6 @@
 {
   "source": [
-    "git://github.com/sgromskiy/grunt-base-template.git",
+    "git://github.com/sgromskiy/grunt-base-template.git"
 ],
   "path": "markup",
   "run": [
