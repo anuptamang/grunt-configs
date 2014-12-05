@@ -1,7 +1,7 @@
 What is this?
 =====
 
-It is a set of configuration files for your projects. Choose one. Download and put it in your project folder (not in the 'markup' folder, but next to 'input' folder).
+It is a set of configuration files for your projects. Choose one option. Download and put it in the root of your project folder (not in the 'markup' folder, but next to 'input' folder).
 
 Before you can use it
 =====
@@ -15,9 +15,9 @@ What next
 
 Open your project folder, press `Shift + RightClick` and run the command line. Than type `w3m`.
 
-While the magic happens, you have time to have a tea
+While the magic happens, you have time to have a tea.
 
-However, what happens?
+Really, what happens?
 =====
 
 `w3m` script will download and configure project template, create correct folder structure, install grunt plugins, run Grunt and finally open your project in browser.
