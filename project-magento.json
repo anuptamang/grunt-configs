@@ -1,0 +1,16 @@
+{
+  "source": [
+    "git://github.com/sgromskiy/grunt-base-template.git",
+    "git://github.com/sgromskiy/grunt-add-magento-19.git"
+],
+  "path": "markup",
+  "ignore": [
+    "scss/all.scss",
+    "scss/index.html",
+    "scss/base/_base-reset.scss"
+  ],
+  "run": [
+    "npm install",
+    "grunt"
+  ]
+}
