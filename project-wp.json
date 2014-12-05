@@ -1,22 +1,13 @@
 {
-  "source": "git://github.com/sgromskiy/grunt-templates.git",
+  "source": [
+    "git://github.com/sgromskiy/grunt-base-template.git",
+    "git://github.com/sgromskiy/grunt-add-wp.git"
+],
   "path": "markup",
   "ignore": [
-    "scss/bootstrap",
-    "scss/_bootstrap-custom.scss",
-    "scss/bootstrap.scss",
-    "bootstrap-index.html",
-    "base/_wp-reset.scss",
-    "wp-style.scss",
-    "wp-index.html",
-    "wp-test.html",
-    "Gruntfile.js",
-    ".git"
+    "scss/all.scss",
+    "scss/base/_base-reset.scss"
   ],
-  "rename": {
-    "wp-index.html" : "index.html",
-    "wp-Gruntfile.js" : "Gruntfile.js",
-  },
   "run": [
     "npm install",
     "grunt"
