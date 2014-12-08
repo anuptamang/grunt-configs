@@ -1,12 +1,10 @@
 {
   "source": [
     "git://github.com/sgromskiy/grunt-base-template.git",
-    "git://github.com/sgromskiy/grunt-add-cms.git",
-    "git://github.com/sgromskiy/grunt-add-wp.git"
+    "git://github.com/sgromskiy/grunt-add-cms.git"
 ],
   "path": "markup",
   "ignore": [
-    "scss/all.scss",
     "scss/base/_base-reset.scss"
   ],
   "run": [
