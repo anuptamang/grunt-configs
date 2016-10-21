@@ -6,8 +6,9 @@
   "path": "markup",
   "ignore": [
     "scss/all.scss",
-    "scss/index.html",
-    "scss/base/_base-reset.scss"
+    "scss/base/_base-reset.scss",
+    "scss/base/_forms.scss",
+    "scss/base/_typography.scss"
   ],
   "run": [
     "npm install",
